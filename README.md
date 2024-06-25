@@ -1,5 +1,3 @@
-# House Price Prediction using Machine Learning
-
 ## Key Features
 - Data preprocessing and feature engineering
 - Model training with XGBoost regressor
